@@ -34,16 +34,25 @@ def assemble_dataset():
     parser.add_argument("esci_path")
     parser.add_argument("offsets_dir")
     parser.add_argument("out_dir")
+    parser.add_argument("--individual-annotators", action="store_true")
     args = parser.parse_args()
 
     id_to_query_map = read_parquet_to_id_map(args.esci_path)
 
-    print("Building training dataset...")
-    assemble_file('train', args.offsets_dir, args.out_dir, id_to_query_map)
-    print("Building dev dataset...")
-    assemble_file('dev', args.offsets_dir, args.out_dir, id_to_query_map)
-    print("Building test dataset...")
-    assemble_file('test', args.offsets_dir, args.out_dir, id_to_query_map)
+    if args.individual_annotators:
+        print("Building annotator1...")
+        assemble_file('annotator-1', args.offsets_dir, args.out_dir, id_to_query_map)
+        print("Building annotator2...")
+        assemble_file('annotator-2', args.offsets_dir, args.out_dir, id_to_query_map)
+        print("Building annotator3...")
+        assemble_file('annotator-3', args.offsets_dir, args.out_dir, id_to_query_map)
+    else:
+        print("Building training dataset...")
+        assemble_file('train', args.offsets_dir, args.out_dir, id_to_query_map)
+        print("Building dev dataset...")
+        assemble_file('dev', args.offsets_dir, args.out_dir, id_to_query_map)
+        print("Building test dataset...")
+        assemble_file('test', args.offsets_dir, args.out_dir, id_to_query_map)
 
 
 def read_parquet_to_id_map(esci_path: str, product_locale: Optional[str] = None):

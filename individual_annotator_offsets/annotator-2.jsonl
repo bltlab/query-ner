@@ -1,0 +1,1000 @@
+{"example_id": 2018525, "labels": ["B-core_product_type", "I-core_product_type", "B-modifier", "I-modifier", "I-modifier"]}
+{"example_id": 260543, "labels": ["B-modifier", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 480294, "labels": ["B-creator", "B-product_name", "B-core_product_type", "B-shape"]}
+{"example_id": 1779969, "labels": ["B-modifier", "B-modifier", "I-modifier", "B-core_product_type"]}
+{"example_id": 515523, "labels": ["B-material", "B-core_product_type", "B-UoM", "I-UoM"]}
+{"example_id": 210043, "labels": ["B-creator", "B-core_product_type", "B-modifier", "B-product_name"]}
+{"example_id": 2203232, "labels": ["B-department", "B-modifier", "I-modifier", "I-modifier", "B-core_product_type"]}
+{"example_id": 2047292, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 2237074, "labels": ["B-modifier", "I-modifier", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 2037525, "labels": ["B-creator", "B-core_product_type", "I-core_product_type", "B-product_number"]}
+{"example_id": 125054, "labels": ["B-UoM", "I-UoM", "B-core_product_type", "I-core_product_type", "B-modifier", "B-modifier", "I-modifier"]}
+{"example_id": 254716, "labels": ["B-department", "I-department", "B-modifier", "I-modifier", "B-core_product_type"]}
+{"example_id": 1146444, "labels": ["B-department", "B-modifier", "I-modifier", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 683227, "labels": ["B-product_name", "I-product_name", "B-core_product_type"]}
+{"example_id": 407420, "labels": ["B-modifier", "B-material", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 1447689, "labels": ["B-content", "B-product_name", "B-department"]}
+{"example_id": 225732, "labels": ["B-creator", "I-creator", "B-color", "B-core_product_type"]}
+{"example_id": 793108, "labels": ["B-modifier", "B-core_product_type", "B-quantity", "B-occasion"]}
+{"example_id": 1727612, "labels": ["B-creator", "B-product_name", "B-core_product_type"]}
+{"example_id": 497071, "labels": ["B-modifier", "I-modifier", "B-core_product_type"]}
+{"example_id": 1089080, "labels": ["B-content", "I-content", "I-content", "I-content", "I-content", "I-content", "I-content", "I-content", "I-content"]}
+{"example_id": 1449997, "labels": ["B-creator", "B-product_name"]}
+{"example_id": 1820183, "labels": ["B-core_product_type", "I-core_product_type", "B-modifier", "B-modifier"]}
+{"example_id": 2023214, "labels": ["B-department", "B-department", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 1722453, "labels": ["B-color", "B-core_product_type", "B-modifier", "B-department"]}
+{"example_id": 840635, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 2187349, "labels": ["B-modifier", "B-core_product_type", "I-core_product_type", "I-core_product_type"]}
+{"example_id": 17753, "labels": ["B-quantity", "B-UoM", "B-core_product_type", "I-core_product_type", "I-core_product_type", "B-condition", "I-condition"]}
+{"example_id": 1794831, "labels": ["B-content", "I-content", "I-content"]}
+{"example_id": 2073047, "labels": ["B-modifier", "I-modifier", "I-modifier", "B-department", "B-core_product_type"]}
+{"example_id": 1629108, "labels": ["B-creator", "B-product_name", "I-product_name", "I-product_name", "B-color", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 1638307, "labels": ["B-creator", "I-creator", "B-content", "I-content", "I-content"]}
+{"example_id": 786355, "labels": ["B-core_product_type", "I-core_product_type", "B-modifier"]}
+{"example_id": 718155, "labels": ["B-core_product_type", "I-core_product_type", "I-core_product_type", "B-modifier", "I-modifier"]}
+{"example_id": 901186, "labels": ["B-core_product_type", "B-modifier", "I-modifier", "I-modifier"]}
+{"example_id": 1054624, "labels": ["B-core_product_type", "I-core_product_type", "B-condition", "I-condition"]}
+{"example_id": 240630, "labels": ["B-core_product_type", "I-core_product_type", "B-modifier", "I-modifier"]}
+{"example_id": 841862, "labels": ["B-product_name", "B-product_name", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 1182164, "labels": ["B-material", "I-material", "B-core_product_type"]}
+{"example_id": 1909420, "labels": ["B-content", "I-content", "I-content", "I-content", "I-content"]}
+{"example_id": 663644, "labels": ["B-material", "B-material", "B-core_product_type"]}
+{"example_id": 644319, "labels": ["B-core_product_type", "I-core_product_type", "I-core_product_type"]}
+{"example_id": 1804742, "labels": ["B-product_name", "B-creator", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 1311548, "labels": ["B-creator", "B-core_product_type", "I-core_product_type", "B-modifier", "I-modifier"]}
+{"example_id": 748888, "labels": ["B-modifier", "I-modifier", "B-core_product_type"]}
+{"example_id": 2091553, "labels": ["B-origin", "B-core_product_type", "B-department"]}
+{"example_id": 1331965, "labels": ["B-department", "B-material", "B-core_product_type"]}
+{"example_id": 1916190, "labels": ["B-core_product_type", "I-core_product_type", "I-core_product_type", "I-core_product_type", "I-core_product_type", "B-quantity"]}
+{"example_id": 269801, "labels": ["B-content", "I-content", "I-content", "I-content"]}
+{"example_id": 1123712, "labels": ["B-content", "I-content"]}
+{"example_id": 26069, "labels": ["B-modifier", "I-modifier", "I-modifier", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 2039324, "labels": ["B-core_product_type", "I-core_product_type", "B-modifier", "I-modifier", "I-modifier", "I-modifier"]}
+{"example_id": 529235, "labels": ["B-occasion", "B-core_product_type"]}
+{"example_id": 809924, "labels": ["B-modifier", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 2161527, "labels": ["B-creator", "B-product_name", "I-product_name"]}
+{"example_id": 178468, "labels": ["B-core_product_type", "I-core_product_type", "B-modifier", "I-modifier", "I-modifier", "I-modifier"]}
+{"example_id": 620396, "labels": ["B-modifier", "B-core_product_type"]}
+{"example_id": 121143, "labels": ["B-UoM", "B-color", "B-core_product_type"]}
+{"example_id": 470448, "labels": ["B-creator", "B-product_name", "I-product_name", "I-product_name"]}
+{"example_id": 952887, "labels": ["B-creator", "B-core_product_type", "I-core_product_type", "B-modifier", "B-department"]}
+{"example_id": 722766, "labels": ["B-content", "I-content", "I-content", "B-core_product_type"]}
+{"example_id": 423435, "labels": ["B-quantity", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 1577201, "labels": ["B-color", "B-core_product_type", "I-core_product_type", "B-modifier", "I-modifier"]}
+{"example_id": 893360, "labels": ["B-core_product_type", "I-core_product_type", "I-core_product_type"]}
+{"example_id": 1018423, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 905536, "labels": ["B-department", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 581689, "labels": ["B-color", "I-color", "I-color", "B-product_name"]}
+{"example_id": 460670, "labels": ["B-creator", "B-product_name", "B-UoM", "B-UoM", "B-product_name", "I-product_name", "I-product_name", "B-core_product_type"]}
+{"example_id": 317960, "labels": ["B-modifier", "B-core_product_type", "B-modifier", "B-department"]}
+{"example_id": 1337865, "labels": ["B-department", "B-shape", "B-color", "B-core_product_type"]}
+{"example_id": 71925, "labels": ["B-UoM", "I-UoM", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 954754, "labels": ["B-core_product_type", "I-core_product_type", "B-condition", "I-condition"]}
+{"example_id": 244270, "labels": ["B-modifier", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 1990813, "labels": ["B-creator", "I-creator", "I-creator"]}
+{"example_id": 1504175, "labels": ["B-material", "B-UoM", "I-UoM", "B-core_product_type"]}
+{"example_id": 974459, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 422579, "labels": ["B-quantity", "B-occasion", "B-core_product_type", "B-modifier", "I-modifier"]}
+{"example_id": 2023074, "labels": ["B-core_product_type", "I-core_product_type", "B-content", "I-content", "I-content"]}
+{"example_id": 1046612, "labels": ["B-product_name", "I-product_name", "I-product_name", "I-product_name", "I-product_name"]}
+{"example_id": 1106697, "labels": ["B-core_product_type", "I-core_product_type", "B-product_name"]}
+{"example_id": 538828, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 2018477, "labels": ["B-core_product_type", "I-core_product_type", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 476155, "labels": ["B-creator", "B-core_product_type"]}
+{"example_id": 1841588, "labels": ["B-creator", "I-creator"]}
+{"example_id": 827704, "labels": ["B-core_product_type", "B-core_product_type"]}
+{"example_id": 2211418, "labels": ["B-creator", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 1867116, "labels": ["B-shape", "B-core_product_type"]}
+{"example_id": 1797944, "labels": ["B-product_name", "I-product_name", "I-product_name", "I-product_name", "B-modifier", "B-core_product_type"]}
+{"example_id": 882519, "labels": ["B-core_product_type", "I-core_product_type", "B-modifier", "B-department"]}
+{"example_id": 1002441, "labels": ["B-modifier", "I-modifier", "B-core_product_type", "I-core_product_type", "I-core_product_type"]}
+{"example_id": 2194228, "labels": ["B-department", "B-core_product_type", "I-core_product_type", "B-modifier"]}
+{"example_id": 172694, "labels": ["B-core_product_type", "B-condition", "I-condition", "I-condition"]}
+{"example_id": 1539575, "labels": ["B-core_product_type", "I-core_product_type", "B-UoM"]}
+{"example_id": 2162682, "labels": ["B-product_name", "I-product_name", "I-product_name", "I-product_name", "I-product_name", "B-core_product_type"]}
+{"example_id": 1133579, "labels": ["B-content", "I-content", "B-core_product_type"]}
+{"example_id": 2007878, "labels": ["B-core_product_type", "B-modifier", "B-department", "B-modifier"]}
+{"example_id": 1033750, "labels": ["B-creator", "B-product_name", "B-core_product_type"]}
+{"example_id": 728504, "labels": ["B-core_product_type", "I-core_product_type", "B-modifier", "I-modifier"]}
+{"example_id": 344950, "labels": ["B-color", "B-material", "B-core_product_type"]}
+{"example_id": 681194, "labels": ["B-modifier", "B-core_product_type", "I-core_product_type", "I-core_product_type"]}
+{"example_id": 1351524, "labels": ["B-creator", "B-core_product_type"]}
+{"example_id": 760613, "labels": ["B-creator", "B-product_name", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 1942315, "labels": ["B-creator", "B-core_product_type"]}
+{"example_id": 623236, "labels": ["B-modifier", "I-modifier", "B-core_product_type"]}
+{"example_id": 1002242, "labels": ["B-modifier", "I-modifier", "B-core_product_type", "I-core_product_type", "B-condition", "I-condition", "I-condition", "I-condition"]}
+{"example_id": 1083941, "labels": ["B-core_product_type", "I-core_product_type", "I-core_product_type", "B-condition", "I-condition", "I-condition"]}
+{"example_id": 1399546, "labels": ["B-modifier", "B-core_product_type", "I-core_product_type", "I-core_product_type"]}
+{"example_id": 2166384, "labels": ["B-color", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 34766, "labels": ["B-UoM", "I-UoM", "B-material", "B-core_product_type"]}
+{"example_id": 1025116, "labels": ["B-creator", "B-core_product_type"]}
+{"example_id": 2258641, "labels": ["B-core_product_type", "I-core_product_type", "I-core_product_type"]}
+{"example_id": 1982670, "labels": ["B-content", "I-content", "I-content", "B-creator"]}
+{"example_id": 32207, "labels": ["B-UoM", "B-modifier", "B-core_product_type", "I-core_product_type", "I-core_product_type", "B-condition", "I-condition"]}
+{"example_id": 1836689, "labels": ["B-core_product_type", "I-core_product_type", "I-core_product_type", "B-modifier"]}
+{"example_id": 373484, "labels": ["B-core_product_type", "I-core_product_type", "B-modifier", "B-department"]}
+{"example_id": 923596, "labels": ["B-color", "B-core_product_type", "B-modifier", "I-modifier"]}
+{"example_id": 678470, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 1736711, "labels": ["B-core_product_type", "I-core_product_type", "B-product_name", "I-product_name", "B-UoM"]}
+{"example_id": 1371826, "labels": ["B-core_product_type", "B-modifier", "B-core_product_type"]}
+{"example_id": 1728619, "labels": ["B-creator", "I-creator", "I-creator"]}
+{"example_id": 1518921, "labels": ["B-core_product_type", "B-modifier", "B-department"]}
+{"example_id": 2073095, "labels": ["B-creator", "B-product_name"]}
+{"example_id": 1356463, "labels": ["B-core_product_type", "B-quantity", "B-modifier", "B-department"]}
+{"example_id": 1775558, "labels": ["B-modifier", "B-core_product_type"]}
+{"example_id": 882051, "labels": ["B-content", "I-content", "I-content"]}
+{"example_id": 735819, "labels": ["B-creator", "B-core_product_type", "B-modifier", "B-department"]}
+{"example_id": 1003416, "labels": ["B-modifier", "I-modifier", "I-modifier", "B-core_product_type"]}
+{"example_id": 92558, "labels": ["B-UoM", "I-UoM", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 2097851, "labels": ["B-creator", "B-core_product_type", "B-modifier", "B-department"]}
+{"example_id": 2133915, "labels": ["B-core_product_type", "I-core_product_type", "I-core_product_type"]}
+{"example_id": 163004, "labels": ["B-shape", "B-core_product_type", "B-modifier", "B-department", "B-material"]}
+{"example_id": 1176464, "labels": ["B-department", "B-core_product_type"]}
+{"example_id": 1326326, "labels": ["B-department", "B-occasion", "B-core_product_type", "B-modifier", "I-modifier"]}
+{"example_id": 89600, "labels": ["B-UoM", "B-product_name", "I-product_name", "I-product_name"]}
+{"example_id": 2082685, "labels": ["B-modifier", "I-modifier", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 1856023, "labels": ["B-creator", "I-creator"]}
+{"example_id": 489222, "labels": ["B-obscure", "I-obscure", "I-obscure", "I-obscure", "I-obscure"]}
+{"example_id": 2201130, "labels": ["B-department", "B-core_product_type", "B-price", "I-price", "I-price"]}
+{"example_id": 801202, "labels": ["B-content", "I-content", "I-content", "I-content", "I-content", "I-content", "I-content", "I-content"]}
+{"example_id": 620220, "labels": ["B-core_product_type", "I-core_product_type", "I-core_product_type", "B-modifier", "I-modifier", "I-modifier", "I-modifier"]}
+{"example_id": 705189, "labels": ["B-modifier", "B-core_product_type", "I-core_product_type", "B-modifier", "I-modifier"]}
+{"example_id": 1440144, "labels": ["B-creator", "I-creator", "I-creator"]}
+{"example_id": 732524, "labels": ["B-creator", "I-creator", "I-creator", "I-creator"]}
+{"example_id": 1886745, "labels": ["B-shape", "I-shape", "B-occasion", "B-core_product_type"]}
+{"example_id": 1938454, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 506545, "labels": ["B-modifier", "B-occasion", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 599046, "labels": ["B-core_product_type", "B-modifier", "B-product_name", "I-product_name", "I-product_name", "B-modifier", "B-department"]}
+{"example_id": 1059593, "labels": ["B-modifier", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 844512, "labels": ["B-content", "B-core_product_type"]}
+{"example_id": 911204, "labels": ["B-department", "B-modifier", "B-modifier", "B-core_product_type"]}
+{"example_id": 2167461, "labels": ["B-color", "B-modifier", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 2260157, "labels": ["B-creator", "B-product_name", "I-product_name", "B-core_product_type", "B-material", "B-quantity", "B-condition", "I-condition"]}
+{"example_id": 892100, "labels": ["B-product_name", "I-product_name", "I-product_name"]}
+{"example_id": 2083262, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 1330438, "labels": ["B-department", "B-creator"]}
+{"example_id": 2130476, "labels": ["B-core_product_type", "I-core_product_type", "I-core_product_type"]}
+{"example_id": 2237518, "labels": ["B-content", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 586917, "labels": ["B-modifier", "B-core_product_type"]}
+{"example_id": 1768339, "labels": ["B-creator", "B-core_product_type"]}
+{"example_id": 1852144, "labels": ["B-UoM", "B-modifier", "I-modifier", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 1613972, "labels": ["B-creator", "B-core_product_type", "B-content", "I-content", "I-content"]}
+{"example_id": 658223, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 165431, "labels": ["B-content", "B-core_product_type"]}
+{"example_id": 2211342, "labels": ["B-creator", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 668825, "labels": ["B-modifier", "B-core_product_type", "B-modifier", "B-department"]}
+{"example_id": 876867, "labels": ["B-product_name", "I-product_name", "B-core_product_type"]}
+{"example_id": 219879, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 318134, "labels": ["B-modifier", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 79182, "labels": ["B-UoM", "I-UoM", "B-core_product_type"]}
+{"example_id": 488029, "labels": ["B-color", "B-core_product_type"]}
+{"example_id": 2162334, "labels": ["B-core_product_type", "I-core_product_type", "B-modifier", "I-modifier", "I-modifier"]}
+{"example_id": 1073748, "labels": ["B-product_name", "I-product_name", "B-core_product_type"]}
+{"example_id": 982045, "labels": ["B-core_product_type", "B-department", "B-department"]}
+{"example_id": 528368, "labels": ["B-occasion", "B-core_product_type"]}
+{"example_id": 261138, "labels": ["B-content", "I-content", "B-core_product_type", "I-core_product_type", "B-modifier"]}
+{"example_id": 1445786, "labels": ["B-creator", "B-core_product_type"]}
+{"example_id": 978876, "labels": ["B-creator", "B-core_product_type", "B-modifier", "B-department"]}
+{"example_id": 899651, "labels": ["B-shape", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 398730, "labels": ["B-department", "B-color", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 17242, "labels": ["B-UoM", "I-UoM", "I-UoM", "B-core_product_type", "I-core_product_type", "B-condition", "I-condition"]}
+{"example_id": 1169231, "labels": ["B-creator", "I-creator", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 1756821, "labels": ["B-core_product_type", "I-core_product_type", "B-modifier", "I-modifier"]}
+{"example_id": 2199288, "labels": ["B-department", "B-modifier", "B-core_product_type", "B-modifier"]}
+{"example_id": 1240625, "labels": ["B-product_name", "I-product_name", "B-core_product_type", "B-quantity", "I-quantity"]}
+{"example_id": 1913377, "labels": ["B-modifier", "I-modifier", "B-occasion", "B-core_product_type", "B-department"]}
+{"example_id": 1622255, "labels": ["B-creator", "I-creator"]}
+{"example_id": 796686, "labels": ["B-modifier", "B-core_product_type", "I-core_product_type", "B-modifier", "I-modifier", "I-modifier", "I-modifier"]}
+{"example_id": 606221, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 2160496, "labels": ["B-modifier", "B-core_product_type"]}
+{"example_id": 461327, "labels": ["B-creator", "I-creator"]}
+{"example_id": 1454017, "labels": ["B-content", "I-content", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 371108, "labels": ["B-modifier", "B-core_product_type", "B-material", "I-material"]}
+{"example_id": 515039, "labels": ["B-modifier", "B-core_product_type", "B-department"]}
+{"example_id": 1250698, "labels": ["B-modifier", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 2110044, "labels": ["B-core_product_type", "I-core_product_type", "B-modifier", "I-modifier"]}
+{"example_id": 559905, "labels": ["B-modifier", "I-modifier", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 2256983, "labels": ["B-modifier", "I-modifier", "B-core_product_type"]}
+{"example_id": 1697103, "labels": ["B-content", "I-content", "I-content", "I-content", "I-content"]}
+{"example_id": 1978264, "labels": ["B-department", "B-core_product_type", "B-modifier", "I-modifier"]}
+{"example_id": 89223, "labels": ["B-UoM", "I-UoM", "B-core_product_type"]}
+{"example_id": 745467, "labels": ["B-modifier", "B-core_product_type", "B-modifier", "I-modifier", "B-core_product_type"]}
+{"example_id": 1590272, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 1942385, "labels": ["B-creator", "B-core_product_type"]}
+{"example_id": 691751, "labels": ["B-core_product_type", "I-core_product_type", "B-UoM"]}
+{"example_id": 126757, "labels": ["B-UoM", "I-UoM", "B-modifier", "I-modifier"]}
+{"example_id": 1202112, "labels": ["B-modifier", "I-modifier", "I-modifier", "B-core_product_type"]}
+{"example_id": 30836, "labels": ["B-UoM", "B-core_product_type", "B-condition", "I-condition"]}
+{"example_id": 655321, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 749392, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 1502402, "labels": ["B-creator", "B-material", "B-material", "B-material"]}
+{"example_id": 1728667, "labels": ["B-creator", "I-creator", "I-creator", "B-product_name"]}
+{"example_id": 1001839, "labels": ["B-modifier", "I-modifier", "B-core_product_type"]}
+{"example_id": 450809, "labels": ["B-obscure", "I-obscure", "I-obscure", "I-obscure", "I-obscure"]}
+{"example_id": 1254141, "labels": ["B-product_name", "B-core_product_type", "I-core_product_type", "B-modifier", "I-modifier"]}
+{"example_id": 443294, "labels": ["B-core_product_type", "B-creator", "I-creator", "I-creator"]}
+{"example_id": 2166352, "labels": ["B-color", "B-core_product_type"]}
+{"example_id": 1077858, "labels": ["B-product_name", "B-modifier", "B-core_product_type"]}
+{"example_id": 1516812, "labels": ["B-creator", "B-color", "B-modifier", "I-modifier", "I-modifier", "B-core_product_type"]}
+{"example_id": 1983272, "labels": ["B-modifier", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 2235847, "labels": ["B-creator", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 1022445, "labels": ["B-content", "I-content", "I-content"]}
+{"example_id": 449996, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 1775390, "labels": ["B-modifier", "B-core_product_type", "B-modifier"]}
+{"example_id": 205216, "labels": ["B-core_product_type", "B-modifier", "B-department", "B-color", "I-color"]}
+{"example_id": 272002, "labels": ["B-creator", "B-core_product_type"]}
+{"example_id": 934194, "labels": ["B-core_product_type", "I-core_product_type", "B-modifier", "B-department"]}
+{"example_id": 487261, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 436788, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 1493550, "labels": ["B-product_name", "I-product_name", "B-core_product_type"]}
+{"example_id": 940001, "labels": ["B-modifier", "I-modifier", "B-core_product_type"]}
+{"example_id": 539442, "labels": ["B-creator", "B-core_product_type", "B-department"]}
+{"example_id": 1846951, "labels": ["B-modifier", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 23440, "labels": ["B-UoM", "I-UoM", "B-core_product_type", "B-condition", "I-condition", "I-condition", "I-condition", "I-condition"]}
+{"example_id": 964158, "labels": ["B-shape", "I-shape", "B-modifier", "B-core_product_type", "I-core_product_type", "I-core_product_type"]}
+{"example_id": 1915193, "labels": ["B-creator", "I-creator", "B-content", "I-content"]}
+{"example_id": 1083572, "labels": ["B-product_name", "I-product_name", "I-product_name"]}
+{"example_id": 1669798, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 245712, "labels": ["B-modifier", "I-modifier", "B-core_product_type", "I-core_product_type", "B-condition", "I-condition"]}
+{"example_id": 1069920, "labels": ["B-product_name", "I-product_name", "I-product_name", "I-product_name", "B-creator", "B-material", "B-core_product_type"]}
+{"example_id": 1509835, "labels": ["B-modifier", "B-core_product_type"]}
+{"example_id": 413848, "labels": ["B-creator", "B-product_name", "B-modifier", "I-modifier", "B-color", "B-core_product_type"]}
+{"example_id": 2249135, "labels": ["B-creator", "B-product_name", "B-modifier", "B-modifier", "I-modifier", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 755364, "labels": ["B-core_product_type", "B-product_name", "I-product_name", "I-product_name"]}
+{"example_id": 1775526, "labels": ["B-modifier", "B-modifier", "B-product_name", "I-product_name", "B-UoM"]}
+{"example_id": 1165728, "labels": ["B-content", "B-modifier", "B-core_product_type"]}
+{"example_id": 1533090, "labels": ["B-color", "B-color", "B-modifier", "B-core_product_type"]}
+{"example_id": 1539733, "labels": ["B-modifier", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 504587, "labels": ["B-creator", "B-department", "B-department"]}
+{"example_id": 266741, "labels": ["B-modifier", "B-modifier", "B-core_product_type", "B-modifier", "B-modifier"]}
+{"example_id": 423934, "labels": ["B-core_product_type", "I-core_product_type", "B-quantity"]}
+{"example_id": 2133544, "labels": ["B-creator", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 853552, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 2006126, "labels": ["B-content", "I-content", "B-core_product_type"]}
+{"example_id": 2154515, "labels": ["B-creator", "B-product_name", "I-product_name", "I-product_name"]}
+{"example_id": 738486, "labels": ["B-modifier", "B-core_product_type", "B-modifier", "I-modifier", "I-modifier", "B-department"]}
+{"example_id": 2047947, "labels": ["B-core_product_type", "I-core_product_type", "I-core_product_type"]}
+{"example_id": 2089456, "labels": ["B-modifier", "I-modifier", "B-shape", "I-shape", "B-department", "B-shape", "B-shape"]}
+{"example_id": 1837644, "labels": ["B-UoM", "I-UoM", "B-department", "B-core_product_type"]}
+{"example_id": 1906021, "labels": ["B-core_product_type", "B-modifier", "I-modifier"]}
+{"example_id": 1264523, "labels": ["B-product_name", "B-core_product_type"]}
+{"example_id": 1890878, "labels": ["B-creator", "B-core_product_type"]}
+{"example_id": 1205356, "labels": ["B-modifier", "B-core_product_type", "I-core_product_type", "I-core_product_type"]}
+{"example_id": 1301782, "labels": ["B-content", "I-content", "I-content", "I-content"]}
+{"example_id": 628094, "labels": ["B-content", "I-content", "I-content"]}
+{"example_id": 1837199, "labels": ["B-UoM", "I-UoM", "B-core_product_type"]}
+{"example_id": 945140, "labels": ["B-content", "I-content", "B-core_product_type"]}
+{"example_id": 224769, "labels": ["B-content", "I-content", "B-creator", "I-creator"]}
+{"example_id": 1776463, "labels": ["B-modifier", "B-core_product_type", "B-material"]}
+{"example_id": 1222090, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 2204666, "labels": ["B-department", "B-modifier", "B-modifier", "B-core_product_type"]}
+{"example_id": 782784, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 1443521, "labels": ["B-modifier", "B-core_product_type", "B-modifier", "I-modifier"]}
+{"example_id": 1400602, "labels": ["B-modifier", "I-modifier", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 1280015, "labels": ["B-modifier", "B-core_product_type", "I-core_product_type", "B-modifier", "I-modifier"]}
+{"example_id": 485449, "labels": ["B-modifier", "B-core_product_type"]}
+{"example_id": 1071131, "labels": ["B-product_name", "I-product_name", "B-core_product_type", "I-core_product_type", "B-modifier", "B-department"]}
+{"example_id": 1109964, "labels": ["B-creator", "I-creator", "B-product_name", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 556011, "labels": ["B-core_product_type", "I-core_product_type", "B-modifier", "I-modifier"]}
+{"example_id": 760447, "labels": ["B-material", "I-material", "B-creator", "I-creator"]}
+{"example_id": 686210, "labels": ["B-content", "B-core_product_type"]}
+{"example_id": 629424, "labels": ["B-material", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 896170, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 1304845, "labels": ["B-creator", "B-core_product_type", "B-UoM", "I-UoM"]}
+{"example_id": 1343639, "labels": ["B-creator", "I-creator"]}
+{"example_id": 625291, "labels": ["B-modifier", "B-core_product_type", "B-modifier", "I-modifier"]}
+{"example_id": 519490, "labels": ["B-material", "B-modifier", "B-core_product_type"]}
+{"example_id": 1748508, "labels": ["B-core_product_type", "I-core_product_type", "B-modifier", "B-department"]}
+{"example_id": 2120839, "labels": ["B-content", "I-content", "I-content"]}
+{"example_id": 714731, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 1333889, "labels": ["B-department", "B-core_product_type"]}
+{"example_id": 1372314, "labels": ["B-product_name", "B-core_product_type", "B-modifier", "B-modifier", "I-modifier"]}
+{"example_id": 507856, "labels": ["B-product_name", "B-modifier", "I-modifier"]}
+{"example_id": 1769456, "labels": ["B-creator", "B-product_name", "I-product_name"]}
+{"example_id": 1610510, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 253405, "labels": ["B-department", "B-color", "B-core_product_type", "B-modifier", "I-modifier"]}
+{"example_id": 1482412, "labels": ["B-condition", "B-core_product_type"]}
+{"example_id": 624248, "labels": ["B-modifier", "B-core_product_type", "I-core_product_type", "I-core_product_type", "I-core_product_type", "B-modifier", "I-modifier"]}
+{"example_id": 1967445, "labels": ["B-core_product_type", "I-core_product_type", "I-core_product_type", "I-core_product_type"]}
+{"example_id": 1427316, "labels": ["B-color", "I-color", "B-core_product_type"]}
+{"example_id": 970695, "labels": ["B-modifier", "I-modifier", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 1201307, "labels": ["B-modifier", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 49452, "labels": ["B-UoM", "B-product_name", "I-product_name", "B-condition", "I-condition"]}
+{"example_id": 1474025, "labels": ["B-creator", "B-core_product_type", "B-modifier", "B-department", "B-color"]}
+{"example_id": 330729, "labels": ["B-UoM", "B-core_product_type", "I-core_product_type", "B-modifier", "B-department"]}
+{"example_id": 1962769, "labels": ["B-creator", "B-core_product_type", "I-core_product_type", "I-core_product_type", "I-core_product_type"]}
+{"example_id": 1053590, "labels": ["B-core_product_type", "I-core_product_type", "I-core_product_type"]}
+{"example_id": 2098182, "labels": ["B-content", "I-content", "I-content"]}
+{"example_id": 1679873, "labels": ["B-creator", "I-creator"]}
+{"example_id": 614026, "labels": ["B-modifier", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 183971, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 495459, "labels": ["B-creator", "B-content", "I-content", "I-content"]}
+{"example_id": 1535355, "labels": ["B-modifier", "B-core_product_type", "B-UoM", "I-UoM"]}
+{"example_id": 2189276, "labels": ["B-product_name", "I-product_name", "B-modifier", "I-modifier"]}
+{"example_id": 1570688, "labels": ["B-core_product_type", "I-core_product_type", "B-modifier", "I-modifier", "I-modifier", "I-modifier"]}
+{"example_id": 899057, "labels": ["B-content", "I-content", "I-content", "B-modifier"]}
+{"example_id": 1357651, "labels": ["B-core_product_type", "B-modifier", "I-modifier", "I-modifier", "I-modifier"]}
+{"example_id": 1394132, "labels": ["B-core_product_type", "I-core_product_type", "B-modifier", "I-modifier", "B-modifier"]}
+{"example_id": 670738, "labels": ["B-product_name", "B-core_product_type", "B-department"]}
+{"example_id": 1024890, "labels": ["B-creator", "B-core_product_type", "B-product_name", "B-modifier"]}
+{"example_id": 1457658, "labels": ["B-content", "I-content", "I-content", "I-content", "I-content"]}
+{"example_id": 1577984, "labels": ["B-color", "I-color", "B-core_product_type"]}
+{"example_id": 216988, "labels": ["B-core_product_type", "I-core_product_type", "B-product_name", "I-product_name", "B-UoM", "I-UoM"]}
+{"example_id": 1957605, "labels": ["B-core_product_type", "I-core_product_type", "B-material"]}
+{"example_id": 179021, "labels": ["B-core_product_type", "B-modifier", "I-modifier", "I-modifier"]}
+{"example_id": 1520768, "labels": ["B-creator", "B-product_name", "B-UoM", "I-UoM"]}
+{"example_id": 2139492, "labels": ["B-core_product_type", "I-core_product_type", "I-core_product_type"]}
+{"example_id": 1570521, "labels": ["B-core_product_type", "I-core_product_type", "I-core_product_type", "I-core_product_type", "B-modifier", "I-modifier", "I-modifier", "I-modifier"]}
+{"example_id": 329732, "labels": ["B-content", "I-content", "I-content", "I-content", "I-content"]}
+{"example_id": 1853204, "labels": ["B-UoM", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 1473976, "labels": ["B-creator", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 520102, "labels": ["B-content", "I-content", "I-content", "B-core_product_type"]}
+{"example_id": 1104516, "labels": ["B-material", "B-core_product_type", "B-modifier"]}
+{"example_id": 1060211, "labels": ["B-creator", "B-modifier"]}
+{"example_id": 2098214, "labels": ["B-creator", "I-creator", "I-creator"]}
+{"example_id": 1350554, "labels": ["B-modifier", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 766883, "labels": ["B-modifier", "I-modifier", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 2214128, "labels": ["B-core_product_type", "B-modifier", "I-modifier"]}
+{"example_id": 1916968, "labels": ["B-creator", "I-creator", "I-creator", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 1965287, "labels": ["B-creator", "I-creator", "B-content", "I-content"]}
+{"example_id": 803028, "labels": ["B-creator", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 1419864, "labels": ["B-core_product_type", "I-core_product_type", "I-core_product_type", "B-department"]}
+{"example_id": 2244880, "labels": ["B-content", "I-content", "I-content", "I-content", "I-content", "I-content"]}
+{"example_id": 381512, "labels": ["B-core_product_type", "I-core_product_type", "I-core_product_type"]}
+{"example_id": 217591, "labels": ["B-product_name", "I-product_name", "B-condition", "I-condition"]}
+{"example_id": 1043510, "labels": ["B-core_product_type", "I-core_product_type", "I-core_product_type"]}
+{"example_id": 1225363, "labels": ["B-content", "I-content", "I-content"]}
+{"example_id": 993363, "labels": ["B-modifier", "B-modifier", "B-core_product_type", "B-modifier", "B-department"]}
+{"example_id": 1505955, "labels": ["B-modifier", "B-core_product_type", "I-core_product_type", "B-condition", "I-condition", "I-condition"]}
+{"example_id": 838877, "labels": ["B-core_product_type", "B-creator", "I-creator"]}
+{"example_id": 1494241, "labels": ["B-product_name", "B-core_product_type"]}
+{"example_id": 1120329, "labels": ["B-content", "I-content", "B-core_product_type"]}
+{"example_id": 874982, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 1296915, "labels": ["B-product_name", "I-product_name", "B-core_product_type"]}
+{"example_id": 1963333, "labels": ["B-product_name", "I-product_name"]}
+{"example_id": 1755380, "labels": ["B-content", "B-core_product_type"]}
+{"example_id": 68304, "labels": ["B-UoM", "I-UoM", "B-core_product_type"]}
+{"example_id": 1477616, "labels": ["B-modifier", "I-modifier", "B-core_product_type"]}
+{"example_id": 2049054, "labels": ["B-modifier", "B-core_product_type", "B-modifier", "B-department", "B-modifier", "B-modifier"]}
+{"example_id": 720901, "labels": ["B-content", "I-content", "B-core_product_type"]}
+{"example_id": 490889, "labels": ["B-core_product_type", "I-core_product_type", "B-color"]}
+{"example_id": 410611, "labels": ["B-obscure", "I-obscure", "I-obscure"]}
+{"example_id": 1759090, "labels": ["B-content", "I-content", "B-core_product_type", "B-department", "B-UoM", "I-UoM"]}
+{"example_id": 476139, "labels": ["B-creator", "B-color", "B-core_product_type", "I-core_product_type", "B-department"]}
+{"example_id": 1385096, "labels": ["B-creator", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 260695, "labels": ["B-department", "B-modifier", "B-core_product_type", "I-core_product_type", "B-modifier"]}
+{"example_id": 678648, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 940558, "labels": ["B-color", "I-color", "I-color", "B-department", "B-core_product_type"]}
+{"example_id": 1784807, "labels": ["B-product_name", "I-product_name"]}
+{"example_id": 2137318, "labels": ["B-core_product_type", "I-core_product_type", "B-modifier", "I-modifier"]}
+{"example_id": 767040, "labels": ["B-core_product_type", "I-core_product_type", "I-core_product_type"]}
+{"example_id": 1197481, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 996005, "labels": ["B-content", "I-content", "B-core_product_type"]}
+{"example_id": 192440, "labels": ["B-modifier", "B-department", "B-core_product_type", "B-color", "B-modifier"]}
+{"example_id": 1758648, "labels": ["B-core_product_type", "I-core_product_type", "I-core_product_type"]}
+{"example_id": 2048401, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 1963223, "labels": ["B-content", "I-content", "I-content", "I-content", "I-content"]}
+{"example_id": 1785277, "labels": ["B-core_product_type", "I-core_product_type", "B-product_name", "I-product_name"]}
+{"example_id": 876132, "labels": ["B-modifier", "B-core_product_type", "B-modifier", "B-department", "B-modifier"]}
+{"example_id": 1434902, "labels": ["B-product_name", "B-core_product_type", "I-core_product_type", "I-core_product_type"]}
+{"example_id": 289416, "labels": ["B-creator", "I-creator"]}
+{"example_id": 1611394, "labels": ["B-product_name", "I-product_name", "B-modifier", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 328341, "labels": ["B-content", "I-content", "I-content", "I-content", "I-content", "B-core_product_type"]}
+{"example_id": 1052946, "labels": ["B-department", "B-core_product_type"]}
+{"example_id": 1895957, "labels": ["B-content", "B-core_product_type"]}
+{"example_id": 1266873, "labels": ["B-core_product_type", "I-core_product_type", "B-modifier", "B-department"]}
+{"example_id": 253533, "labels": ["B-creator", "I-creator"]}
+{"example_id": 2001146, "labels": ["B-content", "I-content", "I-content"]}
+{"example_id": 1334052, "labels": ["B-department", "B-content", "I-content", "I-content", "I-content", "I-content", "I-content", "I-content", "I-content", "B-modifier", "B-core_product_type"]}
+{"example_id": 2199460, "labels": ["B-department", "B-occasion", "B-core_product_type"]}
+{"example_id": 414361, "labels": ["B-color", "B-core_product_type", "B-department"]}
+{"example_id": 1846375, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 702280, "labels": ["B-creator", "I-creator"]}
+{"example_id": 2078784, "labels": ["B-shape", "I-shape", "B-product_name", "I-product_name", "I-product_name", "B-core_product_type"]}
+{"example_id": 1733178, "labels": ["B-core_product_type", "B-modifier", "B-department", "I-department"]}
+{"example_id": 1311322, "labels": ["B-content", "I-content", "I-content", "B-core_product_type"]}
+{"example_id": 1298526, "labels": ["B-creator", "B-product_name", "I-product_name"]}
+{"example_id": 2009512, "labels": ["B-core_product_type", "I-core_product_type", "B-condition", "I-condition"]}
+{"example_id": 1892484, "labels": ["B-content", "B-core_product_type"]}
+{"example_id": 932800, "labels": ["B-creator", "I-creator", "B-core_product_type", "I-core_product_type", "B-core_product_type"]}
+{"example_id": 440741, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 1706863, "labels": ["B-core_product_type", "I-core_product_type", "I-core_product_type", "B-modifier"]}
+{"example_id": 1401890, "labels": ["B-content", "I-content", "I-content"]}
+{"example_id": 378963, "labels": ["B-obscure", "I-obscure", "I-obscure", "I-obscure"]}
+{"example_id": 2192616, "labels": ["B-core_product_type", "B-occasion", "B-core_product_type"]}
+{"example_id": 69052, "labels": ["B-quantity", "I-quantity", "B-core_product_type", "B-modifier", "B-department"]}
+{"example_id": 253907, "labels": ["B-content", "I-content"]}
+{"example_id": 2196502, "labels": ["B-department", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 2010628, "labels": ["B-creator", "I-creator"]}
+{"example_id": 1475657, "labels": ["B-modifier", "B-core_product_type", "I-core_product_type", "B-modifier", "B-content"]}
+{"example_id": 600953, "labels": ["B-modifier", "B-shape", "I-shape", "B-core_product_type", "B-department"]}
+{"example_id": 446744, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 41241, "labels": ["B-modifier", "B-modifier", "B-material", "B-core_product_type", "I-core_product_type", "B-modifier"]}
+{"example_id": 518661, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 1167647, "labels": ["B-content", "B-modifier", "B-core_product_type"]}
+{"example_id": 685517, "labels": ["B-content", "I-content", "B-modifier", "I-modifier"]}
+{"example_id": 1067832, "labels": ["B-creator", "B-modifier", "B-core_product_type"]}
+{"example_id": 2139331, "labels": ["B-modifier", "B-core_product_type"]}
+{"example_id": 830852, "labels": ["B-modifier", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 1181149, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 366519, "labels": ["B-modifier", "B-core_product_type"]}
+{"example_id": 1618228, "labels": ["B-modifier", "B-core_product_type"]}
+{"example_id": 654148, "labels": ["B-creator", "I-creator"]}
+{"example_id": 270306, "labels": ["B-obscure", "I-obscure", "I-obscure", "I-obscure", "I-obscure", "I-obscure"]}
+{"example_id": 1311666, "labels": ["B-creator", "I-creator", "B-product_name", "B-core_product_type"]}
+{"example_id": 1610277, "labels": ["B-material", "I-material", "B-color", "B-color", "B-core_product_type", "B-core_product_type"]}
+{"example_id": 1784503, "labels": ["B-modifier", "B-core_product_type"]}
+{"example_id": 25982, "labels": ["B-modifier", "I-modifier", "I-modifier", "B-department", "B-core_product_type"]}
+{"example_id": 1800247, "labels": ["B-content", "B-content", "B-core_product_type"]}
+{"example_id": 1623707, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 1484210, "labels": ["B-creator", "B-core_product_type"]}
+{"example_id": 965667, "labels": ["B-occasion", "B-core_product_type", "B-department"]}
+{"example_id": 973408, "labels": ["B-modifier", "B-core_product_type"]}
+{"example_id": 856189, "labels": ["B-content", "I-content", "B-UoM", "B-core_product_type"]}
+{"example_id": 2191732, "labels": ["B-department", "B-core_product_type"]}
+{"example_id": 1103822, "labels": ["B-obscure", "I-obscure"]}
+{"example_id": 575854, "labels": ["B-material", "B-core_product_type"]}
+{"example_id": 1867100, "labels": ["B-modifier", "B-modifier", "I-modifier", "B-core_product_type"]}
+{"example_id": 1612602, "labels": ["B-core_product_type", "I-core_product_type", "I-core_product_type", "B-modifier", "B-department"]}
+{"example_id": 1439981, "labels": ["B-creator", "I-creator", "I-creator"]}
+{"example_id": 482724, "labels": ["B-modifier", "I-modifier", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 327660, "labels": ["B-UoM", "I-UoM", "I-UoM", "B-core_product_type", "I-core_product_type", "B-modifier", "B-department"]}
+{"example_id": 1424983, "labels": ["B-material", "B-quantity", "B-core_product_type"]}
+{"example_id": 1278170, "labels": ["B-product_name", "I-product_name", "B-core_product_type", "B-product_name"]}
+{"example_id": 1834916, "labels": ["B-quantity", "B-core_product_type", "I-core_product_type", "I-core_product_type"]}
+{"example_id": 492662, "labels": ["B-core_product_type", "I-core_product_type", "B-creator"]}
+{"example_id": 1955965, "labels": ["B-creator", "B-core_product_type"]}
+{"example_id": 998410, "labels": ["B-product_name", "I-product_name", "I-product_name"]}
+{"example_id": 1549669, "labels": ["B-core_product_type", "B-creator", "B-product_name"]}
+{"example_id": 2248905, "labels": ["B-creator", "B-UoM"]}
+{"example_id": 1402363, "labels": ["B-creator", "I-creator", "B-product_name"]}
+{"example_id": 799035, "labels": ["B-modifier", "I-modifier", "B-quantity"]}
+{"example_id": 775399, "labels": ["B-core_product_type", "I-core_product_type", "I-core_product_type", "B-core_product_type", "B-modifier", "B-modifier"]}
+{"example_id": 2234362, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 1205548, "labels": ["B-core_product_type", "B-department"]}
+{"example_id": 1630927, "labels": ["B-modifier", "B-core_product_type", "I-core_product_type", "B-UoM"]}
+{"example_id": 669359, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 216850, "labels": ["B-product_name", "I-product_name", "I-product_name", "I-product_name", "B-UoM", "B-core_product_type"]}
+{"example_id": 1067105, "labels": ["B-product_name", "I-product_name", "B-core_product_type"]}
+{"example_id": 1625854, "labels": ["B-core_product_type", "I-core_product_type", "B-creator", "B-product_name", "I-product_name", "B-product_number"]}
+{"example_id": 329838, "labels": ["B-UoM", "B-department", "B-modifier", "B-core_product_type", "B-UoM"]}
+{"example_id": 2005826, "labels": ["B-core_product_type", "B-price", "I-price"]}
+{"example_id": 1500591, "labels": ["B-modifier", "I-modifier", "B-core_product_type"]}
+{"example_id": 911028, "labels": ["B-department", "B-occasion", "B-core_product_type", "I-core_product_type", "I-core_product_type"]}
+{"example_id": 1757241, "labels": ["B-creator", "B-product_name"]}
+{"example_id": 1296144, "labels": ["B-creator", "I-creator", "B-core_product_type", "B-modifier", "B-department"]}
+{"example_id": 328493, "labels": ["B-UoM", "B-modifier", "B-core_product_type"]}
+{"example_id": 1758696, "labels": ["B-core_product_type", "I-core_product_type", "I-core_product_type"]}
+{"example_id": 748121, "labels": ["B-core_product_type", "I-core_product_type", "B-modifier", "I-modifier", "I-modifier"]}
+{"example_id": 894697, "labels": ["B-creator", "B-core_product_type"]}
+{"example_id": 1563151, "labels": ["B-modifier", "B-core_product_type"]}
+{"example_id": 2110534, "labels": ["B-product_name", "I-product_name", "I-product_name", "I-product_name", "I-product_name"]}
+{"example_id": 355690, "labels": ["B-creator", "I-creator", "B-core_product_type"]}
+{"example_id": 683083, "labels": ["B-modifier", "B-core_product_type"]}
+{"example_id": 2011252, "labels": ["B-creator", "I-creator", "B-core_product_type"]}
+{"example_id": 313862, "labels": ["B-core_product_type", "B-modifier", "B-department", "B-modifier"]}
+{"example_id": 1988973, "labels": ["B-occasion", "B-modifier", "I-modifier", "B-core_product_type"]}
+{"example_id": 188560, "labels": ["B-content", "I-content", "I-content", "I-content"]}
+{"example_id": 119296, "labels": ["B-UoM", "B-UoM", "B-core_product_type"]}
+{"example_id": 1451618, "labels": ["B-content", "I-content", "B-department", "B-core_product_type"]}
+{"example_id": 346453, "labels": ["B-color", "B-modifier", "B-core_product_type", "B-modifier", "B-department"]}
+{"example_id": 174605, "labels": ["B-creator", "B-product_name", "I-product_name", "B-modifier", "B-core_product_type", "I-core_product_type", "B-modifier"]}
+{"example_id": 1610044, "labels": ["B-core_product_type", "B-modifier", "I-modifier", "B-quantity", "I-quantity"]}
+{"example_id": 1436873, "labels": ["B-modifier", "B-core_product_type", "I-core_product_type", "B-quantity"]}
+{"example_id": 850082, "labels": ["B-modifier", "B-core_product_type"]}
+{"example_id": 2157095, "labels": ["B-product_name", "I-product_name", "B-modifier", "B-department"]}
+{"example_id": 1089494, "labels": ["B-origin", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 1447509, "labels": ["B-creator", "B-department", "B-modifier"]}
+{"example_id": 889675, "labels": ["B-modifier", "B-core_product_type", "B-UoM", "I-UoM"]}
+{"example_id": 203460, "labels": ["B-modifier", "B-core_product_type"]}
+{"example_id": 1784695, "labels": ["B-modifier", "I-modifier", "B-core_product_type", "I-core_product_type", "B-modifier", "I-modifier"]}
+{"example_id": 427929, "labels": ["B-content", "I-content", "I-content", "I-content", "I-content", "I-content", "I-content"]}
+{"example_id": 457615, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 406046, "labels": ["B-core_product_type", "I-core_product_type", "I-core_product_type", "B-modifier", "I-modifier"]}
+{"example_id": 70291, "labels": ["B-modifier", "I-modifier", "B-core_product_type", "I-core_product_type", "B-modifier", "I-modifier"]}
+{"example_id": 775431, "labels": ["B-core_product_type", "I-core_product_type", "I-core_product_type"]}
+{"example_id": 982777, "labels": ["B-content", "I-content", "B-content", "B-core_product_type"]}
+{"example_id": 1080621, "labels": ["B-product_name", "I-product_name", "I-product_name"]}
+{"example_id": 1172477, "labels": ["B-content", "I-content", "I-content", "I-content", "I-content"]}
+{"example_id": 348286, "labels": ["B-color", "I-color", "B-core_product_type"]}
+{"example_id": 1996427, "labels": ["B-content", "I-content", "I-content"]}
+{"example_id": 661468, "labels": ["B-creator", "B-core_product_type"]}
+{"example_id": 966767, "labels": ["B-occasion", "B-modifier", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 190293, "labels": ["B-modifier", "B-core_product_type", "I-core_product_type", "I-core_product_type"]}
+{"example_id": 1076377, "labels": ["B-product_name", "B-core_product_type"]}
+{"example_id": 1065658, "labels": ["B-modifier", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 1347521, "labels": ["B-material", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 889747, "labels": ["B-creator", "B-core_product_type", "I-core_product_type", "B-UoM", "I-UoM"]}
+{"example_id": 1554336, "labels": ["B-content", "I-content", "B-core_product_type"]}
+{"example_id": 1751621, "labels": ["B-modifier", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 1357931, "labels": ["B-modifier", "I-modifier", "B-core_product_type", "B-modifier", "B-department"]}
+{"example_id": 1235203, "labels": ["B-creator", "B-core_product_type", "I-core_product_type", "I-core_product_type"]}
+{"example_id": 621001, "labels": ["B-product_name", "I-product_name", "I-product_name", "B-core_product_type"]}
+{"example_id": 1661401, "labels": ["B-product_name", "I-product_name", "B-quantity", "I-quantity"]}
+{"example_id": 302945, "labels": ["B-modifier", "B-core_product_type"]}
+{"example_id": 211470, "labels": ["B-core_product_type", "I-core_product_type", "B-modifier", "I-modifier", "I-modifier"]}
+{"example_id": 901620, "labels": ["B-core_product_type", "B-quantity", "B-modifier", "I-modifier"]}
+{"example_id": 2176049, "labels": ["B-modifier", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 2044636, "labels": ["B-creator", "I-creator", "B-core_product_type", "B-modifier", "I-modifier", "I-modifier"]}
+{"example_id": 2004236, "labels": ["B-UoM", "B-product_name", "I-product_name"]}
+{"example_id": 1085338, "labels": ["B-modifier", "B-core_product_type"]}
+{"example_id": 1334713, "labels": ["B-department", "B-creator", "B-modifier", "I-modifier", "B-core_product_type"]}
+{"example_id": 1693700, "labels": ["B-color", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 107607, "labels": ["B-modifier", "I-modifier", "B-core_product_type"]}
+{"example_id": 61605, "labels": ["B-UoM", "I-UoM", "B-core_product_type"]}
+{"example_id": 1901353, "labels": ["B-product_name", "B-creator", "B-core_product_type"]}
+{"example_id": 1911560, "labels": ["B-modifier", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 1996155, "labels": ["B-content", "I-content", "B-core_product_type"]}
+{"example_id": 1591919, "labels": ["B-material", "B-modifier", "B-core_product_type", "B-modifier", "I-modifier"]}
+{"example_id": 1304024, "labels": ["B-core_product_type", "B-modifier", "B-modifier"]}
+{"example_id": 948771, "labels": ["B-modifier", "I-modifier", "I-modifier", "B-department", "B-core_product_type"]}
+{"example_id": 1612746, "labels": ["B-core_product_type", "I-core_product_type", "B-condition", "I-condition"]}
+{"example_id": 614134, "labels": ["B-material", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 598466, "labels": ["B-quantity", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 1559631, "labels": ["B-core_product_type", "B-department"]}
+{"example_id": 1376624, "labels": ["B-content", "B-core_product_type"]}
+{"example_id": 692230, "labels": ["B-core_product_type", "I-core_product_type", "B-UoM", "I-UoM", "B-core_product_type"]}
+{"example_id": 1156308, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 1300156, "labels": ["B-content", "B-core_product_type", "B-department"]}
+{"example_id": 1135657, "labels": ["B-core_product_type", "I-core_product_type", "B-modifier", "I-modifier"]}
+{"example_id": 816572, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 2010768, "labels": ["B-product_name", "I-product_name", "I-product_name"]}
+{"example_id": 1280748, "labels": ["B-modifier", "B-core_product_type", "I-core_product_type", "B-condition", "I-condition"]}
+{"example_id": 1211253, "labels": ["B-core_product_type", "B-modifier", "I-modifier"]}
+{"example_id": 178604, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 721319, "labels": ["B-creator", "B-core_product_type", "B-product_name", "I-product_name"]}
+{"example_id": 1199420, "labels": ["B-material", "B-core_product_type", "B-product_name", "I-product_name", "B-department"]}
+{"example_id": 1965623, "labels": ["B-creator", "B-content", "I-content"]}
+{"example_id": 1623589, "labels": ["B-core_product_type", "B-UoM", "I-UoM", "I-UoM"]}
+{"example_id": 944317, "labels": ["B-color", "B-core_product_type"]}
+{"example_id": 2222882, "labels": ["B-core_product_type", "I-core_product_type", "I-core_product_type"]}
+{"example_id": 773118, "labels": ["B-content", "I-content"]}
+{"example_id": 2241391, "labels": ["B-creator", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 1387144, "labels": ["B-content", "B-product_name", "I-product_name"]}
+{"example_id": 2198726, "labels": ["B-department", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 1827333, "labels": ["B-product_name", "I-product_name", "I-product_name", "I-product_name", "B-core_product_type"]}
+{"example_id": 1790214, "labels": ["B-core_product_type", "B-modifier", "I-modifier", "I-modifier"]}
+{"example_id": 965651, "labels": ["B-occasion", "B-core_product_type", "B-modifier"]}
+{"example_id": 847017, "labels": ["B-core_product_type", "B-UoM", "B-color"]}
+{"example_id": 1347264, "labels": ["B-material", "B-core_product_type", "B-modifier", "B-department"]}
+{"example_id": 925179, "labels": ["B-material", "B-core_product_type", "I-core_product_type", "B-modifier", "B-department"]}
+{"example_id": 75435, "labels": ["B-UoM", "I-UoM", "I-UoM", "B-core_product_type"]}
+{"example_id": 1384209, "labels": ["B-content", "I-content", "I-content", "I-content", "I-content"]}
+{"example_id": 1859974, "labels": ["B-product_name", "I-product_name", "B-modifier", "I-modifier", "I-modifier", "I-modifier", "I-modifier"]}
+{"example_id": 798616, "labels": ["B-creator", "I-creator", "B-content", "I-content", "I-content", "I-content", "I-content", "B-modifier", "I-modifier"]}
+{"example_id": 1716014, "labels": ["B-creator", "I-creator", "B-core_product_type"]}
+{"example_id": 1469797, "labels": ["B-product_name", "B-occasion"]}
+{"example_id": 1923993, "labels": ["B-material", "B-core_product_type"]}
+{"example_id": 2005263, "labels": ["B-UoM", "B-modifier", "B-core_product_type", "B-department"]}
+{"example_id": 637586, "labels": ["B-core_product_type", "I-core_product_type", "I-core_product_type", "B-modifier", "I-modifier"]}
+{"example_id": 1770656, "labels": ["B-content", "I-content", "I-content", "B-core_product_type", "B-modifier", "I-modifier", "B-UoM", "I-UoM", "I-UoM"]}
+{"example_id": 679547, "labels": ["B-creator", "B-content", "I-content", "B-core_product_type"]}
+{"example_id": 1732580, "labels": ["B-quantity", "B-modifier", "B-material", "B-core_product_type", "I-core_product_type", "B-modifier", "I-modifier"]}
+{"example_id": 1110105, "labels": ["B-content", "I-content", "B-product_name", "I-product_name"]}
+{"example_id": 1623669, "labels": ["B-core_product_type", "B-modifier", "I-modifier", "I-modifier", "I-modifier"]}
+{"example_id": 1749589, "labels": ["B-modifier", "I-modifier", "B-core_product_type"]}
+{"example_id": 679721, "labels": ["B-creator", "B-occasion", "B-core_product_type"]}
+{"example_id": 2123412, "labels": ["B-condition", "B-core_product_type", "B-modifier", "I-modifier"]}
+{"example_id": 1792709, "labels": ["B-product_name", "I-product_name", "B-core_product_type"]}
+{"example_id": 684292, "labels": ["B-content", "I-content", "B-core_product_type", "B-modifier", "B-department"]}
+{"example_id": 1452768, "labels": ["B-product_name", "I-product_name", "B-core_product_type"]}
+{"example_id": 1740268, "labels": ["B-shape", "I-shape", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 1220175, "labels": ["B-creator", "B-product_name", "I-product_name", "I-product_name", "I-product_name"]}
+{"example_id": 2058834, "labels": ["B-creator", "I-creator", "B-color", "B-core_product_type"]}
+{"example_id": 1539987, "labels": ["B-core_product_type", "I-core_product_type", "I-core_product_type"]}
+{"example_id": 994305, "labels": ["B-creator", "I-creator", "B-product_name", "B-core_product_type"]}
+{"example_id": 1165282, "labels": ["B-origin", "B-core_product_type"]}
+{"example_id": 2045658, "labels": ["B-core_product_type", "I-core_product_type", "I-core_product_type"]}
+{"example_id": 1330743, "labels": ["B-department", "B-modifier", "I-modifier", "B-core_product_type", "B-modifier", "I-modifier"]}
+{"example_id": 1144279, "labels": ["B-department", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 1424951, "labels": ["B-material", "I-material", "B-core_product_type"]}
+{"example_id": 352799, "labels": ["B-color", "B-product_name", "B-department"]}
+{"example_id": 354032, "labels": ["B-product_name", "I-product_name", "I-product_name", "I-product_name"]}
+{"example_id": 2135972, "labels": ["B-core_product_type", "I-core_product_type", "I-core_product_type"]}
+{"example_id": 1396212, "labels": ["B-modifier", "B-core_product_type"]}
+{"example_id": 1513454, "labels": ["B-core_product_type", "I-core_product_type", "I-core_product_type"]}
+{"example_id": 702720, "labels": ["B-creator", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 1421303, "labels": ["B-shape", "B-core_product_type"]}
+{"example_id": 583094, "labels": ["B-modifier", "B-core_product_type", "B-creator"]}
+{"example_id": 336408, "labels": ["B-content", "I-content", "B-creator"]}
+{"example_id": 551902, "labels": ["B-color", "B-core_product_type"]}
+{"example_id": 314068, "labels": ["B-product_name", "I-product_name", "I-product_name", "B-creator", "B-product_name"]}
+{"example_id": 527519, "labels": ["B-occasion", "B-creator"]}
+{"example_id": 316267, "labels": ["B-creator", "B-modifier", "B-core_product_type"]}
+{"example_id": 696410, "labels": ["B-content", "I-content", "I-content", "B-core_product_type"]}
+{"example_id": 574062, "labels": ["B-core_product_type", "I-core_product_type", "B-color"]}
+{"example_id": 2259487, "labels": ["B-product_name", "I-product_name"]}
+{"example_id": 527269, "labels": ["B-occasion", "B-core_product_type"]}
+{"example_id": 696506, "labels": ["B-modifier", "B-core_product_type"]}
+{"example_id": 128212, "labels": ["B-time", "B-modifier", "B-core_product_type"]}
+{"example_id": 1843794, "labels": ["B-product_name", "I-product_name"]}
+{"example_id": 1128848, "labels": ["B-core_product_type", "B-core_product_type", "I-core_product_type", "I-core_product_type"]}
+{"example_id": 293603, "labels": ["B-modifier", "B-core_product_type"]}
+{"example_id": 1231435, "labels": ["B-modifier", "I-modifier", "I-modifier", "I-modifier", "B-core_product_type"]}
+{"example_id": 1677341, "labels": ["B-creator", "I-creator", "B-core_product_type"]}
+{"example_id": 740150, "labels": ["B-creator", "B-core_product_type", "I-core_product_type", "B-condition", "I-condition"]}
+{"example_id": 1469342, "labels": ["B-modifier", "B-core_product_type", "B-modifier", "B-department"]}
+{"example_id": 1696690, "labels": ["B-material", "I-material", "I-material", "B-core_product_type", "B-modifier"]}
+{"example_id": 1846359, "labels": ["B-creator", "I-creator", "B-UoM", "B-core_product_type"]}
+{"example_id": 1728873, "labels": ["B-creator", "B-content", "I-content", "B-core_product_type"]}
+{"example_id": 1859535, "labels": ["B-core_product_type", "I-core_product_type", "B-UoM"]}
+{"example_id": 129719, "labels": ["B-UoM", "B-core_product_type"]}
+{"example_id": 2025205, "labels": ["B-department", "B-core_product_type", "B-UoM"]}
+{"example_id": 786039, "labels": ["B-core_product_type", "I-core_product_type", "I-core_product_type", "I-core_product_type", "I-core_product_type"]}
+{"example_id": 1884515, "labels": ["B-product_name", "I-product_name", "B-core_product_type"]}
+{"example_id": 551356, "labels": ["B-color", "B-core_product_type", "B-quantity"]}
+{"example_id": 239611, "labels": ["B-core_product_type", "I-core_product_type", "I-core_product_type"]}
+{"example_id": 960110, "labels": ["B-product_name", "I-product_name", "B-modifier", "I-modifier", "I-modifier"]}
+{"example_id": 1342479, "labels": ["B-modifier", "I-modifier", "B-core_product_type"]}
+{"example_id": 1534010, "labels": ["B-modifier", "B-core_product_type"]}
+{"example_id": 2127327, "labels": ["B-creator", "I-creator", "B-product_name"]}
+{"example_id": 421584, "labels": ["B-creator", "I-creator", "I-creator", "B-modifier", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 1591872, "labels": ["B-material", "B-core_product_type", "I-core_product_type", "I-core_product_type", "B-condition", "I-condition"]}
+{"example_id": 374659, "labels": ["B-color", "B-core_product_type"]}
+{"example_id": 624264, "labels": ["B-modifier", "B-core_product_type", "B-modifier"]}
+{"example_id": 1638735, "labels": ["B-creator", "I-creator"]}
+{"example_id": 1557751, "labels": ["B-modifier", "B-core_product_type", "B-modifier", "B-department"]}
+{"example_id": 1477250, "labels": ["B-core_product_type", "B-creator", "B-product_name", "B-core_product_type"]}
+{"example_id": 985753, "labels": ["B-modifier", "I-modifier", "I-modifier", "I-modifier", "B-core_product_type", "B-UoM"]}
+{"example_id": 1603125, "labels": ["B-modifier", "B-core_product_type"]}
+{"example_id": 829507, "labels": ["B-product_name", "I-product_name", "B-core_product_type"]}
+{"example_id": 983690, "labels": ["B-creator", "I-creator", "B-core_product_type"]}
+{"example_id": 747106, "labels": ["B-content", "I-content", "B-core_product_type"]}
+{"example_id": 938891, "labels": ["B-color", "B-core_product_type"]}
+{"example_id": 1075416, "labels": ["B-product_name", "I-product_name", "B-core_product_type", "I-core_product_type", "B-modifier", "I-modifier", "I-modifier", "B-department"]}
+{"example_id": 2009969, "labels": ["B-product_name", "I-product_name"]}
+{"example_id": 514946, "labels": ["B-occasion", "B-core_product_type"]}
+{"example_id": 415609, "labels": ["B-color", "B-core_product_type", "I-core_product_type", "I-core_product_type"]}
+{"example_id": 440400, "labels": ["B-core_product_type", "I-core_product_type", "I-core_product_type", "I-core_product_type", "B-UoM", "I-UoM"]}
+{"example_id": 1325979, "labels": ["B-department", "B-core_product_type", "I-core_product_type", "B-condition", "I-condition", "I-condition"]}
+{"example_id": 1180757, "labels": ["B-core_product_type", "B-modifier", "I-modifier", "B-color"]}
+{"example_id": 1407870, "labels": ["B-color", "B-material", "B-quantity", "B-modifier", "B-department"]}
+{"example_id": 1757361, "labels": ["B-creator", "B-modifier", "B-material", "B-core_product_type", "O", "B-UoM", "I-UoM", "I-UoM", "I-UoM", "O", "B-color"]}
+{"example_id": 298796, "labels": ["B-modifier", "B-core_product_type"]}
+{"example_id": 2129155, "labels": ["B-modifier", "B-core_product_type", "B-modifier", "I-modifier", "I-modifier"]}
+{"example_id": 1732171, "labels": ["B-modifier", "B-core_product_type"]}
+{"example_id": 2039244, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 692744, "labels": ["B-modifier", "B-occasion", "B-core_product_type", "B-shape"]}
+{"example_id": 1252422, "labels": ["B-UoM", "B-core_product_type", "B-modifier", "I-modifier", "B-modifier"]}
+{"example_id": 497255, "labels": ["B-core_product_type", "B-modifier", "I-modifier", "I-modifier", "I-modifier"]}
+{"example_id": 720637, "labels": ["B-modifier", "B-core_product_type", "B-department"]}
+{"example_id": 1912626, "labels": ["B-material", "I-material", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 1180416, "labels": ["B-creator", "I-creator", "I-creator", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 688125, "labels": ["B-product_name", "I-product_name", "I-product_name"]}
+{"example_id": 1967993, "labels": ["B-core_product_type", "B-modifier"]}
+{"example_id": 983816, "labels": ["B-core_product_type", "I-core_product_type", "I-core_product_type"]}
+{"example_id": 1803316, "labels": ["B-modifier", "B-core_product_type", "I-core_product_type", "I-core_product_type"]}
+{"example_id": 2089966, "labels": ["B-creator", "I-creator"]}
+{"example_id": 1713198, "labels": ["B-modifier", "B-core_product_type", "I-core_product_type", "B-modifier", "I-modifier"]}
+{"example_id": 1243238, "labels": ["B-modifier", "I-modifier", "I-modifier", "I-modifier", "B-core_product_type"]}
+{"example_id": 1097677, "labels": ["B-origin", "B-product_name"]}
+{"example_id": 1939604, "labels": ["B-core_product_type", "B-product_name", "B-color"]}
+{"example_id": 1106222, "labels": ["B-core_product_type", "I-core_product_type", "B-modifier", "B-department"]}
+{"example_id": 2238634, "labels": ["B-color", "B-creator"]}
+{"example_id": 1353999, "labels": ["B-content", "I-content", "B-core_product_type"]}
+{"example_id": 1905522, "labels": ["B-material", "I-material", "B-core_product_type", "B-content"]}
+{"example_id": 395282, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 1821957, "labels": ["B-content", "I-content", "I-content", "I-content", "B-core_product_type"]}
+{"example_id": 1118790, "labels": ["B-content", "I-content", "I-content", "I-content"]}
+{"example_id": 366262, "labels": ["B-modifier", "B-modifier", "B-core_product_type"]}
+{"example_id": 930080, "labels": ["B-creator", "B-product_name"]}
+{"example_id": 88818, "labels": ["B-UoM", "B-modifier", "B-core_product_type"]}
+{"example_id": 1107873, "labels": ["B-creator", "I-creator", "B-content", "I-content", "I-content"]}
+{"example_id": 1987649, "labels": ["B-product_name", "I-product_name", "B-material"]}
+{"example_id": 181523, "labels": ["B-creator", "B-product_name", "I-product_name", "I-product_name"]}
+{"example_id": 1573621, "labels": ["B-core_product_type", "I-core_product_type", "B-modifier", "I-modifier", "I-modifier"]}
+{"example_id": 1220286, "labels": ["B-creator", "B-product_name", "I-product_name", "B-core_product_type", "I-core_product_type", "B-modifier", "I-modifier", "I-modifier"]}
+{"example_id": 1284602, "labels": ["B-core_product_type", "I-core_product_type", "I-core_product_type"]}
+{"example_id": 1982178, "labels": ["B-product_name", "B-core_product_type"]}
+{"example_id": 1625314, "labels": ["B-core_product_type", "I-core_product_type", "I-core_product_type"]}
+{"example_id": 1822534, "labels": ["B-creator", "I-creator"]}
+{"example_id": 989049, "labels": ["B-content", "I-content", "I-content", "I-content", "B-core_product_type"]}
+{"example_id": 2203867, "labels": ["B-department", "B-creator", "B-core_product_type"]}
+{"example_id": 681832, "labels": ["B-modifier", "B-core_product_type", "I-core_product_type", "B-UoM", "I-UoM", "B-modifier", "I-modifier"]}
+{"example_id": 474279, "labels": ["B-creator", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 1217928, "labels": ["B-creator", "B-core_product_type", "I-core_product_type", "I-core_product_type", "B-modifier", "I-modifier"]}
+{"example_id": 1763385, "labels": ["B-product_name", "I-product_name", "I-product_name"]}
+{"example_id": 880231, "labels": ["B-core_product_type", "I-core_product_type", "B-UoM", "I-UoM"]}
+{"example_id": 960773, "labels": ["B-core_product_type", "I-core_product_type", "I-core_product_type", "B-modifier", "I-modifier"]}
+{"example_id": 49673, "labels": ["B-UoM", "B-core_product_type", "B-condition", "I-condition"]}
+{"example_id": 345533, "labels": ["B-color", "B-core_product_type", "B-core_product_type", "B-creator"]}
+{"example_id": 488995, "labels": ["B-product_name", "I-product_name", "I-product_name", "I-product_name", "I-product_name"]}
+{"example_id": 725103, "labels": ["B-product_name", "I-product_name", "I-product_name"]}
+{"example_id": 1732923, "labels": ["B-material", "B-core_product_type", "B-material", "I-material"]}
+{"example_id": 1544311, "labels": ["B-creator", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 1660343, "labels": ["B-color", "B-content", "I-content", "B-core_product_type"]}
+{"example_id": 1826116, "labels": ["B-material", "B-core_product_type", "B-modifier", "I-modifier"]}
+{"example_id": 2203979, "labels": ["B-department", "B-color", "I-color", "B-modifier", "B-core_product_type"]}
+{"example_id": 1332730, "labels": ["B-department", "B-modifier", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 1490078, "labels": ["B-core_product_type", "I-core_product_type", "I-core_product_type"]}
+{"example_id": 1623763, "labels": ["B-modifier", "B-core_product_type"]}
+{"example_id": 605482, "labels": ["B-modifier", "B-core_product_type"]}
+{"example_id": 2048064, "labels": ["B-color", "B-core_product_type"]}
+{"example_id": 1577763, "labels": ["B-color", "B-core_product_type", "I-core_product_type", "B-condition", "I-condition"]}
+{"example_id": 697656, "labels": ["B-core_product_type", "I-core_product_type", "I-core_product_type", "B-modifier"]}
+{"example_id": 943223, "labels": ["B-creator", "B-product_name"]}
+{"example_id": 219763, "labels": ["B-modifier", "B-core_product_type", "I-core_product_type", "B-UoM"]}
+{"example_id": 756070, "labels": ["B-core_product_type", "I-core_product_type", "B-modifier", "I-modifier", "B-quantity", "I-quantity", "I-quantity"]}
+{"example_id": 1641930, "labels": ["B-creator", "B-product_name", "I-product_name"]}
+{"example_id": 985485, "labels": ["B-core_product_type", "B-modifier", "I-modifier", "I-modifier"]}
+{"example_id": 1907081, "labels": ["B-content", "I-content", "I-content", "I-content"]}
+{"example_id": 1998509, "labels": ["B-content", "I-content", "I-content", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 1541524, "labels": ["B-color", "I-color", "B-core_product_type"]}
+{"example_id": 1345647, "labels": ["B-product_name", "I-product_name", "B-core_product_type"]}
+{"example_id": 1253237, "labels": ["B-shape", "I-shape", "B-core_product_type", "B-content"]}
+{"example_id": 2184735, "labels": ["B-occasion", "B-modifier", "B-core_product_type", "B-modifier", "B-department"]}
+{"example_id": 1891113, "labels": ["B-creator", "B-department"]}
+{"example_id": 749064, "labels": ["B-product_name", "I-product_name"]}
+{"example_id": 2192888, "labels": ["B-department", "B-modifier", "B-core_product_type"]}
+{"example_id": 1865425, "labels": ["B-product_name", "I-product_name", "I-product_name"]}
+{"example_id": 877090, "labels": ["B-product_name", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 383726, "labels": ["B-modifier", "B-core_product_type"]}
+{"example_id": 888393, "labels": ["B-creator", "B-core_product_type", "I-core_product_type", "I-core_product_type"]}
+{"example_id": 21621, "labels": ["B-quantity", "B-product_name", "I-product_name", "I-product_name", "B-price", "I-price"]}
+{"example_id": 1142972, "labels": ["B-department", "B-modifier", "I-modifier", "B-core_product_type"]}
+{"example_id": 198983, "labels": ["B-occasion", "B-core_product_type", "B-modifier", "I-modifier"]}
+{"example_id": 1458513, "labels": ["B-modifier", "I-modifier", "I-modifier", "B-core_product_type", "B-department"]}
+{"example_id": 459806, "labels": ["B-product_name", "I-product_name", "B-color", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 1731963, "labels": ["B-material", "I-material", "B-core_product_type", "B-modifier", "I-modifier"]}
+{"example_id": 1188186, "labels": ["B-creator", "I-creator", "I-creator", "B-core_product_type"]}
+{"example_id": 1617367, "labels": ["B-modifier", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 180908, "labels": ["B-color", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 1334195, "labels": ["B-department", "B-core_product_type", "B-creator"]}
+{"example_id": 1591407, "labels": ["B-creator", "I-creator"]}
+{"example_id": 229588, "labels": ["B-content", "I-content", "I-content"]}
+{"example_id": 254651, "labels": ["B-department", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 1407376, "labels": ["B-modifier", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 572067, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 1819245, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 248629, "labels": ["B-shape", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 408480, "labels": ["B-creator", "B-core_product_type"]}
+{"example_id": 217168, "labels": ["B-product_name", "I-product_name", "I-product_name", "I-product_name", "B-creator", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 2057791, "labels": ["B-creator", "I-creator", "B-product_name"]}
+{"example_id": 756369, "labels": ["B-product_name", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 193701, "labels": ["B-color", "B-core_product_type", "I-core_product_type", "I-core_product_type"]}
+{"example_id": 2069113, "labels": ["B-core_product_type", "I-core_product_type", "B-modifier", "I-modifier"]}
+{"example_id": 1296971, "labels": ["B-modifier", "I-modifier", "B-core_product_type"]}
+{"example_id": 208464, "labels": ["B-condition", "B-color", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 634122, "labels": ["B-content", "I-content", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 1389385, "labels": ["B-shape", "B-shape", "B-core_product_type"]}
+{"example_id": 602317, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 455210, "labels": ["B-creator", "B-core_product_type"]}
+{"example_id": 833418, "labels": ["B-core_product_type", "I-core_product_type", "I-core_product_type"]}
+{"example_id": 1395921, "labels": ["B-modifier", "I-modifier", "B-core_product_type"]}
+{"example_id": 2237609, "labels": ["B-product_name", "I-product_name"]}
+{"example_id": 1163903, "labels": ["B-creator", "B-modifier", "B-core_product_type"]}
+{"example_id": 1140332, "labels": ["B-department", "B-core_product_type", "B-material", "B-material", "B-material"]}
+{"example_id": 825126, "labels": ["B-product_name", "B-core_product_type"]}
+{"example_id": 2058328, "labels": ["B-core_product_type", "I-core_product_type", "I-core_product_type"]}
+{"example_id": 261015, "labels": ["B-department", "B-product_name", "I-product_name", "B-core_product_type"]}
+{"example_id": 2240284, "labels": ["B-creator", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 605139, "labels": ["B-creator", "I-creator", "I-creator", "B-product_name", "I-product_name"]}
+{"example_id": 702704, "labels": ["B-creator", "B-core_product_type", "I-core_product_type", "I-core_product_type"]}
+{"example_id": 1981578, "labels": ["B-content", "I-content", "I-content", "I-content"]}
+{"example_id": 673547, "labels": ["B-product_name", "B-core_product_type"]}
+{"example_id": 793034, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 1504047, "labels": ["B-modifier", "I-modifier", "B-modifier", "B-creator", "B-modifier", "B-core_product_type"]}
+{"example_id": 136813, "labels": ["B-modifier", "B-condition", "B-condition", "I-condition", "I-condition", "I-condition", "B-core_product_type", "B-condition", "I-condition", "I-condition", "I-condition", "I-condition", "I-condition", "I-condition", "I-condition", "I-condition", "I-condition"]}
+{"example_id": 1838772, "labels": ["B-core_product_type", "B-condition", "I-condition"]}
+{"example_id": 1960659, "labels": ["B-modifier", "B-core_product_type"]}
+{"example_id": 1972851, "labels": ["B-obscure", "I-obscure", "I-obscure", "I-obscure", "I-obscure", "I-obscure", "I-obscure"]}
+{"example_id": 28738, "labels": ["B-UoM", "I-UoM", "I-UoM", "B-UoM", "B-core_product_type", "B-color", "I-color", "B-condition", "I-condition", "B-creator", "B-creator"]}
+{"example_id": 1623991, "labels": ["B-material", "I-material"]}
+{"example_id": 1983470, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 649461, "labels": ["B-creator", "B-UoM", "B-modifier"]}
+{"example_id": 1818, "labels": ["B-price", "B-condition", "I-condition"]}
+{"example_id": 1283943, "labels": ["B-core_product_type", "I-core_product_type", "I-core_product_type"]}
+{"example_id": 132843, "labels": ["B-UoM", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 1314025, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 601513, "labels": ["B-core_product_type", "I-core_product_type", "B-quantity"]}
+{"example_id": 1851732, "labels": ["B-UoM", "B-core_product_type"]}
+{"example_id": 1897287, "labels": ["B-modifier", "B-core_product_type"]}
+{"example_id": 739783, "labels": ["B-shape", "B-core_product_type"]}
+{"example_id": 1504487, "labels": ["B-modifier", "B-core_product_type", "B-modifier"]}
+{"example_id": 1601959, "labels": ["B-core_product_type", "I-core_product_type", "B-core_product_type", "B-modifier"]}
+{"example_id": 1321653, "labels": ["B-creator", "I-creator", "I-creator"]}
+{"example_id": 1507152, "labels": ["B-modifier", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 1594942, "labels": ["B-core_product_type", "I-core_product_type", "B-modifier", "B-department"]}
+{"example_id": 1969917, "labels": ["B-creator", "B-product_name"]}
+{"example_id": 2182089, "labels": ["B-creator", "B-color"]}
+{"example_id": 2228136, "labels": ["B-creator", "I-creator", "B-product_name", "I-product_name"]}
+{"example_id": 925259, "labels": ["B-color", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 1003743, "labels": ["B-modifier", "I-modifier", "B-core_product_type", "B-modifier", "B-department"]}
+{"example_id": 224474, "labels": ["B-content", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 1897851, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 764075, "labels": ["B-obscure", "I-obscure", "I-obscure", "I-obscure", "I-obscure", "I-obscure", "I-obscure", "I-obscure"]}
+{"example_id": 517413, "labels": ["B-product_name", "B-core_product_type"]}
+{"example_id": 1529707, "labels": ["B-content", "I-content", "I-content", "I-content"]}
+{"example_id": 1624394, "labels": ["B-modifier", "B-modifier", "B-core_product_type"]}
+{"example_id": 1626589, "labels": ["B-core_product_type", "I-core_product_type", "B-core_product_type"]}
+{"example_id": 1818812, "labels": ["B-core_product_type", "I-core_product_type", "I-core_product_type"]}
+{"example_id": 2070837, "labels": ["B-modifier", "B-department", "B-modifier", "B-occasion", "B-modifier", "B-core_product_type"]}
+{"example_id": 812621, "labels": ["B-core_product_type", "B-modifier", "I-modifier", "I-modifier"]}
+{"example_id": 38671, "labels": ["B-quantity", "I-quantity", "B-UoM", "B-core_product_type", "B-condition", "I-condition"]}
+{"example_id": 1949651, "labels": ["B-modifier", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 250156, "labels": ["B-color", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 970535, "labels": ["B-product_name", "I-product_name", "B-core_product_type"]}
+{"example_id": 1128920, "labels": ["B-creator", "I-creator", "B-core_product_type"]}
+{"example_id": 1231573, "labels": ["B-product_name", "I-product_name", "I-product_name", "B-core_product_type", "B-UoM", "I-UoM"]}
+{"example_id": 1295909, "labels": ["B-product_name", "I-product_name", "B-quantity", "B-modifier", "B-department"]}
+{"example_id": 1353745, "labels": ["B-content", "I-content", "B-core_product_type"]}
+{"example_id": 2001807, "labels": ["B-content", "I-content", "I-content", "I-content", "I-content", "I-content"]}
+{"example_id": 1947023, "labels": ["B-modifier", "B-core_product_type", "I-core_product_type", "B-modifier", "I-modifier"]}
+{"example_id": 271306, "labels": ["B-core_product_type", "I-core_product_type", "B-modifier", "B-modifier", "I-modifier"]}
+{"example_id": 1661087, "labels": ["B-core_product_type", "B-modifier", "B-department"]}
+{"example_id": 181855, "labels": ["B-color", "I-color", "B-creator", "B-core_product_type"]}
+{"example_id": 1328995, "labels": ["B-department", "B-UoM", "B-product_name", "B-color", "B-core_product_type"]}
+{"example_id": 794302, "labels": ["B-creator", "B-product_name", "I-product_name", "B-core_product_type"]}
+{"example_id": 496730, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 2157445, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 725247, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 333026, "labels": ["B-modifier", "I-modifier", "B-modifier", "B-core_product_type", "B-UoM"]}
+{"example_id": 1810148, "labels": ["B-core_product_type", "B-modifier", "B-UoM", "I-UoM", "B-modifier", "B-modifier"]}
+{"example_id": 843935, "labels": ["B-content", "I-content", "I-content", "B-core_product_type"]}
+{"example_id": 1599529, "labels": ["B-UoM", "B-UoM", "B-UoM", "B-core_product_type", "B-modifier", "B-department"]}
+{"example_id": 612469, "labels": ["B-core_product_type", "I-core_product_type", "B-condition", "I-condition"]}
+{"example_id": 374472, "labels": ["B-color", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 1843232, "labels": ["B-core_product_type", "B-modifier", "B-department", "B-shape"]}
+{"example_id": 1496088, "labels": ["B-modifier", "B-core_product_type", "B-creator", "I-creator"]}
+{"example_id": 1265991, "labels": ["B-modifier", "B-core_product_type"]}
+{"example_id": 538892, "labels": ["B-content", "I-content"]}
+{"example_id": 1927142, "labels": ["B-product_name", "I-product_name"]}
+{"example_id": 1944138, "labels": ["B-modifier", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 1148183, "labels": ["B-creator", "B-product_name"]}
+{"example_id": 953767, "labels": ["B-modifier", "B-core_product_type", "B-modifier"]}
+{"example_id": 1187765, "labels": ["B-shape", "B-color", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 1950772, "labels": ["B-product_name", "I-product_name", "I-product_name"]}
+{"example_id": 1859286, "labels": ["B-product_name", "I-product_name", "B-condition", "I-condition", "I-condition"]}
+{"example_id": 1706211, "labels": ["B-creator", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 1691466, "labels": ["B-shape", "B-modifier", "I-modifier", "B-core_product_type"]}
+{"example_id": 1625797, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 1123870, "labels": ["B-core_product_type", "I-core_product_type", "I-core_product_type"]}
+{"example_id": 1699499, "labels": ["B-product_name", "I-product_name", "B-core_product_type"]}
+{"example_id": 970971, "labels": ["B-modifier", "I-modifier", "B-core_product_type", "B-material"]}
+{"example_id": 2198176, "labels": ["B-department", "B-modifier", "B-core_product_type"]}
+{"example_id": 1467350, "labels": ["B-color", "B-modifier", "B-core_product_type"]}
+{"example_id": 890886, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 344432, "labels": ["B-color", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 268054, "labels": ["B-creator", "I-creator", "B-material", "B-core_product_type"]}
+{"example_id": 1860132, "labels": ["B-creator", "I-creator", "B-core_product_type", "B-quantity"]}
+{"example_id": 1525067, "labels": ["B-core_product_type", "B-modifier", "B-department"]}
+{"example_id": 250863, "labels": ["B-content", "I-content", "B-core_product_type"]}
+{"example_id": 246534, "labels": ["B-product_name", "I-product_name", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 253581, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 1389609, "labels": ["B-material", "B-quantity"]}
+{"example_id": 1412896, "labels": ["B-creator", "B-modifier", "I-modifier", "I-modifier", "B-core_product_type"]}
+{"example_id": 1608064, "labels": ["B-creator", "B-core_product_type"]}
+{"example_id": 474027, "labels": ["B-color", "I-color", "B-creator", "B-core_product_type"]}
+{"example_id": 657060, "labels": ["B-core_product_type", "I-core_product_type", "B-modifier", "I-modifier"]}
+{"example_id": 1253349, "labels": ["B-shape", "I-shape", "B-core_product_type", "B-department", "B-modifier", "I-modifier"]}
+{"example_id": 1264722, "labels": ["B-core_product_type", "I-core_product_type", "B-modifier", "B-department"]}
+{"example_id": 949576, "labels": ["B-product_name", "I-product_name"]}
+{"example_id": 1503790, "labels": ["B-creator", "I-creator", "B-core_product_type", "B-modifier"]}
+{"example_id": 1812043, "labels": ["B-core_product_type", "I-core_product_type", "I-core_product_type", "I-core_product_type"]}
+{"example_id": 975040, "labels": ["B-modifier", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 81669, "labels": ["B-product_name", "I-product_name", "B-department", "B-core_product_type"]}
+{"example_id": 2190599, "labels": ["B-content", "B-department", "B-modifier", "B-color"]}
+{"example_id": 23771, "labels": ["B-UoM", "I-UoM", "B-color", "B-core_product_type", "B-condition", "I-condition"]}
+{"example_id": 309681, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 780450, "labels": ["B-product_name", "I-product_name", "I-product_name"]}
+{"example_id": 275783, "labels": ["B-product_name", "I-product_name"]}
+{"example_id": 952839, "labels": ["B-creator", "B-core_product_type", "I-core_product_type", "I-core_product_type"]}
+{"example_id": 1696530, "labels": ["B-color", "B-core_product_type"]}
+{"example_id": 1974569, "labels": ["B-modifier", "B-core_product_type", "B-modifier", "B-department"]}
+{"example_id": 748968, "labels": ["B-color", "B-core_product_type"]}
+{"example_id": 1420901, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 1836561, "labels": ["B-content", "I-content", "I-content", "B-core_product_type"]}
+{"example_id": 1392583, "labels": ["B-core_product_type", "I-core_product_type", "B-modifier", "I-modifier"]}
+{"example_id": 1608593, "labels": ["B-product_name", "I-product_name"]}
+{"example_id": 528805, "labels": ["B-content", "I-content", "B-price", "B-modifier", "I-modifier"]}
+{"example_id": 664540, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 941412, "labels": ["B-color", "B-core_product_type", "B-department"]}
+{"example_id": 993169, "labels": ["B-product_name", "I-product_name", "B-core_product_type"]}
+{"example_id": 1237432, "labels": ["B-creator", "B-product_name", "I-product_name"]}
+{"example_id": 1305825, "labels": ["B-core_product_type", "I-core_product_type", "I-core_product_type"]}
+{"example_id": 1861898, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 1809472, "labels": ["B-material", "B-core_product_type"]}
+{"example_id": 393146, "labels": ["B-content", "B-creator", "I-creator"]}
+{"example_id": 840513, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 2219474, "labels": ["B-core_product_type", "I-core_product_type", "B-department"]}
+{"example_id": 1734967, "labels": ["B-product_name", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 2182033, "labels": ["B-core_product_type", "B-core_product_type", "I-core_product_type", "B-product_name"]}
+{"example_id": 485975, "labels": ["B-core_product_type", "I-core_product_type", "B-modifier", "I-modifier", "I-modifier"]}
+{"example_id": 338442, "labels": ["B-core_product_type", "I-core_product_type", "B-modifier", "B-modifier", "B-modifier", "I-modifier", "I-modifier"]}
+{"example_id": 371364, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 2182402, "labels": ["B-core_product_type", "I-core_product_type", "B-modifier", "I-modifier"]}
+{"example_id": 1820897, "labels": ["B-core_product_type", "I-core_product_type", "I-core_product_type", "I-core_product_type"]}
+{"example_id": 2145997, "labels": ["B-product_name", "I-product_name"]}
+{"example_id": 2009712, "labels": ["B-product_name", "I-product_name"]}
+{"example_id": 266259, "labels": ["B-core_product_type", "I-core_product_type", "I-core_product_type", "I-core_product_type"]}
+{"example_id": 1029919, "labels": ["B-obscure", "B-core_product_type", "B-department"]}
+{"example_id": 640168, "labels": ["B-content", "I-content", "I-content", "I-content", "B-core_product_type"]}
+{"example_id": 622576, "labels": ["B-core_product_type", "I-core_product_type", "B-condition", "I-condition", "I-condition", "I-condition"]}
+{"example_id": 1473491, "labels": ["B-material", "B-core_product_type"]}
+{"example_id": 166909, "labels": ["B-core_product_type", "I-core_product_type", "B-product_name"]}
+{"example_id": 1032058, "labels": ["B-content", "I-content", "I-content", "I-content"]}
+{"example_id": 1214863, "labels": ["B-color", "B-modifier", "B-color", "B-core_product_type"]}
+{"example_id": 2220876, "labels": ["B-material", "B-modifier", "B-core_product_type"]}
+{"example_id": 1309364, "labels": ["B-color", "I-color", "B-core_product_type"]}
+{"example_id": 1873217, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 56342, "labels": ["B-quantity", "I-quantity", "B-product_name", "I-product_name", "I-product_name", "I-product_name"]}
+{"example_id": 1486491, "labels": ["B-content", "I-content", "I-content", "B-creator", "I-creator"]}
+{"example_id": 701984, "labels": ["B-modifier", "I-modifier", "B-core_product_type", "B-quantity"]}
+{"example_id": 840280, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 1816029, "labels": ["B-core_product_type", "B-modifier", "B-department", "B-department"]}
+{"example_id": 425966, "labels": ["B-creator", "B-core_product_type", "B-modifier", "B-department"]}
+{"example_id": 322703, "labels": ["B-creator", "I-creator", "B-product_name", "I-product_name", "B-product_name", "I-product_name"]}
+{"example_id": 1323978, "labels": ["B-product_name", "I-product_name", "I-product_name", "B-core_product_type"]}
+{"example_id": 1155798, "labels": ["B-core_product_type", "I-core_product_type", "B-modifier", "I-modifier", "I-modifier", "I-modifier"]}
+{"example_id": 1775326, "labels": ["B-product_name", "B-quantity"]}
+{"example_id": 1597575, "labels": ["B-content", "I-content", "I-content", "I-content", "I-content", "I-content", "I-content", "I-content", "B-core_product_type"]}
+{"example_id": 1563715, "labels": ["B-core_product_type", "I-core_product_type", "I-core_product_type", "B-product_name", "I-product_name"]}
+{"example_id": 1396364, "labels": ["B-modifier", "B-core_product_type", "I-core_product_type", "I-core_product_type"]}
+{"example_id": 684052, "labels": ["B-core_product_type", "I-core_product_type", "I-core_product_type", "I-core_product_type"]}
+{"example_id": 1059181, "labels": ["B-modifier", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 682085, "labels": ["B-core_product_type", "I-core_product_type", "B-UoM"]}
+{"example_id": 256168, "labels": ["B-core_product_type", "I-core_product_type", "B-modifier", "B-department"]}
+{"example_id": 564526, "labels": ["B-core_product_type", "I-core_product_type", "B-modifier"]}
+{"example_id": 1316448, "labels": ["B-core_product_type", "I-core_product_type", "B-origin"]}
+{"example_id": 1421068, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 101261, "labels": ["B-UoM", "I-UoM", "B-UoM", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 2137139, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 1118293, "labels": ["B-UoM", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 830595, "labels": ["B-creator", "B-core_product_type", "B-material", "B-department"]}
+{"example_id": 565694, "labels": ["B-color", "B-core_product_type", "B-modifier", "I-modifier", "I-modifier", "B-modifier"]}
+{"example_id": 1840976, "labels": ["B-core_product_type", "I-core_product_type", "I-core_product_type"]}
+{"example_id": 1829576, "labels": ["B-obscure", "I-obscure", "I-obscure", "I-obscure", "I-obscure"]}
+{"example_id": 637434, "labels": ["B-color", "I-color", "B-core_product_type", "B-modifier", "I-modifier"]}
+{"example_id": 1831043, "labels": ["B-color", "B-core_product_type", "B-modifier", "I-modifier"]}
+{"example_id": 213462, "labels": ["B-creator", "B-product_name", "I-product_name", "I-product_name"]}
+{"example_id": 843631, "labels": ["B-occasion", "B-core_product_type", "B-modifier", "I-modifier"]}
+{"example_id": 782104, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 2187842, "labels": ["B-modifier", "B-core_product_type", "I-core_product_type", "I-core_product_type"]}
+{"example_id": 317864, "labels": ["B-content", "I-content", "B-core_product_type"]}
+{"example_id": 1835523, "labels": ["B-core_product_type", "I-core_product_type", "I-core_product_type"]}
+{"example_id": 2139235, "labels": ["B-core_product_type", "I-core_product_type", "B-modifier", "I-modifier"]}
+{"example_id": 528269, "labels": ["B-modifier", "B-modifier", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 418073, "labels": ["B-core_product_type", "I-core_product_type", "I-core_product_type"]}
+{"example_id": 972707, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 188967, "labels": ["B-content", "I-content", "I-content", "I-content"]}
+{"example_id": 1595070, "labels": ["B-core_product_type", "I-core_product_type", "B-shape"]}
+{"example_id": 1187161, "labels": ["B-UoM", "I-UoM", "B-core_product_type"]}
+{"example_id": 271594, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 957756, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 1541556, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 590840, "labels": ["B-creator", "B-core_product_type", "I-core_product_type", "I-core_product_type"]}
+{"example_id": 258733, "labels": ["B-department", "B-occasion", "B-core_product_type"]}
+{"example_id": 1392782, "labels": ["B-core_product_type", "I-core_product_type", "B-condition", "I-condition"]}
+{"example_id": 1208442, "labels": ["B-product_name", "I-product_name", "I-product_name"]}
+{"example_id": 1964858, "labels": ["B-color", "B-core_product_type", "B-modifier", "I-modifier", "B-modifier", "I-modifier"]}
+{"example_id": 2155638, "labels": ["B-core_product_type", "I-core_product_type", "B-modifier", "I-modifier", "I-modifier"]}
+{"example_id": 551028, "labels": ["B-core_product_type", "I-core_product_type", "B-modifier", "I-modifier"]}
+{"example_id": 1556955, "labels": ["B-product_name", "I-product_name"]}
+{"example_id": 1103496, "labels": ["B-creator", "I-creator"]}
+{"example_id": 903242, "labels": ["B-content", "I-content"]}
+{"example_id": 1659177, "labels": ["B-color", "B-modifier", "B-core_product_type"]}
+{"example_id": 1284323, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 1244018, "labels": ["B-modifier", "I-modifier", "B-core_product_type"]}
+{"example_id": 1888061, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 684436, "labels": ["B-creator", "I-creator", "B-obscure"]}
+{"example_id": 992444, "labels": ["B-core_product_type", "I-core_product_type", "I-core_product_type", "B-core_product_type", "I-core_product_type", "B-UoM"]}
+{"example_id": 626727, "labels": ["B-modifier", "B-core_product_type"]}
+{"example_id": 741018, "labels": ["B-product_name", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 1267995, "labels": ["B-content", "I-content", "I-content", "I-content", "B-core_product_type"]}
+{"example_id": 799393, "labels": ["B-creator", "B-core_product_type", "I-core_product_type", "I-core_product_type", "I-core_product_type"]}
+{"example_id": 1893716, "labels": ["B-shape", "B-core_product_type"]}
+{"example_id": 1049872, "labels": ["B-creator", "B-product_name", "I-product_name", "B-modifier", "B-color"]}
+{"example_id": 90406, "labels": ["B-UoM", "I-UoM", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 937717, "labels": ["B-creator", "I-creator", "B-core_product_type"]}
+{"example_id": 1697466, "labels": ["B-core_product_type", "I-core_product_type", "B-modifier"]}
+{"example_id": 1393073, "labels": ["B-product_name", "I-product_name"]}
+{"example_id": 821014, "labels": ["B-core_product_type", "I-core_product_type", "I-core_product_type"]}
+{"example_id": 166220, "labels": ["B-core_product_type", "I-core_product_type", "B-modifier", "B-modifier", "B-core_product_type"]}
+{"example_id": 2193825, "labels": ["B-department", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 1355430, "labels": ["B-material", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 1602524, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 232464, "labels": ["B-creator", "B-department", "B-core_product_type", "I-core_product_type"]}
+{"example_id": 649072, "labels": ["B-creator", "B-core_product_type", "I-core_product_type", "B-modifier", "I-modifier", "I-modifier"]}
+{"example_id": 1189666, "labels": ["B-core_product_type", "B-product_number"]}
+{"example_id": 1175845, "labels": ["B-core_product_type", "I-core_product_type"]}
+{"example_id": 904276, "labels": ["B-core_product_type", "I-core_product_type"]}
