@@ -4,7 +4,7 @@
 
 To create the dataset from offsets, use the following commands:
 
-`conda create -n queryner python=3.8 -y`
+`conda create -yn queryner python=3.8`
 
 `conda activate queryner`
 
