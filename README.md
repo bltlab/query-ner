@@ -23,3 +23,8 @@ The resulting annotation files will be in the `individual_annotations` directory
 
 These scripts will download the original raw queries from the Amazon ESCI dataset and apply the 
 QueryNER offsets in order to generate data in the BIO CONLL-style format.
+
+The dataset and models are also accessible on 🤗 HuggingFace: 
+- [huggingface.co/datasets/bltlab/queryner](https://huggingface.co/datasets/bltlab/queryner)
+- [huggingface.co/bltlab/queryner-bert-base-uncased](https://huggingface.co/bltlab/queryner-bert-base-uncased)
+- [huggingface.co/bltlab/queryner-augmented-data-bert-base-uncased](https://huggingface.co/bltlab/queryner-augmented-data-bert-base-uncased)
